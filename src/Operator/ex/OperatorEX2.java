@@ -11,6 +11,7 @@ public class OperatorEX2 {
 
         System.out.println(sum);
         System.out.println(avg);
+        System.out.println("avg = " + avg);
 
     }
 }
