@@ -14,5 +14,6 @@ public class OperatorEX2 {
         System.out.println("avg = " + avg);
 
 
+
     }
 }
