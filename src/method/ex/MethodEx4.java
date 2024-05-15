@@ -6,6 +6,7 @@ public class MethodEx4 {
     public static void main(String[] args) {
         int balace =1000;
         Scanner scanner =new Scanner(System.in);
+        System.out.println();
 
         while (true){
             System.out.println("-------------------------------");
